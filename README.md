@@ -1,6 +1,6 @@
 # -Lot-based-PSI-visualise-trial
 this is a trial code for "Lot based PSI" visualisation.
-you can see, supply shain bullwhip images with plotly 3d scatter graph.
+you can see, supply shain bullwhip images with plotly 3d scatter graph(see "visualise_psi_sample.pdf").
 
 Lot based PSI is "Global Supply Chain Planning" that is handling with weekly lots.
 this is some visualise sample code for Lot based PSI.
