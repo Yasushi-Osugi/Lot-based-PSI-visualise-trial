@@ -1,5 +1,16 @@
 # Lot-based-PSI-visualise-trial
 this is a trial code for "Lot based PSI" visualisation.
+
+主な資料は以下のとおりです。
+● pythonのソースコード
+    visualise_bullwhip040X4github.py
+● 入力ファイル
+    S_month_data.csv    月次需要計画
+    supply_chain_tree_attributes.csv サプライチェーンnodeの親子定義
+● 出力ファイル
+    iso_week_S.csv 週次需要計画
+● 画面サンプルのpdfファイル
+
 you can see, supply shain bullwhip images with plotly 3d scatter graph(see "visualise_psi_sample20230508.pdf").
 
 Lot based PSI is "Global Supply Chain Planning" that is handling with weekly lots.
